@@ -1,4 +1,4 @@
-import RightArrow from '../assets/arrow-right.svg?react';
+import RightArrow from '/public/assets/arrow-right.svg?react';
 const Banner = () => {
   return (
     <section className='main'>
